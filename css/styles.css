@@ -909,7 +909,7 @@ img {
     height: 250px;
   }
   .about-container-data-description {
-    text-align: initial;
+    text-align: justify;
   }
   .about-container-data-info {
     justify-content: space-between;
